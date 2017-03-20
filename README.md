@@ -1,2 +1,0 @@
-# heimdal
-heimdal
